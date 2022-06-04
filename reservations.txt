@@ -1,0 +1,55 @@
+Username:anan_muhamed
+Trip ID:1
+Destination:EGYPT
+Startdate:20/6/2021
+Enddate:30/6/2021
+Transportation:bus
+Hotelname:helnan
+Hotel Address:hilton
+Max No. of Reservations:40
+Number of reservations:40
+Trip cost:2500
+Number of people:5
+Payment method:cash
+
+Username:jana.tarek
+Trip ID:2
+Destination:turkey
+Startdate:15/8/2021
+Enddate:20/8/202
+Transportation:plane
+Hotelname:sheraton
+Hotel Address:21 turkey street
+Max No. of Reservations:200
+Number of reservations:50
+Trip cost:50000
+Number of people:4
+Payment method:cash 
+
+Username:jana.tarek
+Trip ID:3
+Destination:germany
+Startdate:20/11/2021
+Enddate:30/11/2021
+Transportation:plane
+Hotelname:germania
+Hotel Address:16 gu street
+Max No. of Reservations:300
+Number of reservations:50
+Trip cost:45000
+Number of people:6
+Payment method:cash 
+
+Username:anan_muhamed
+Trip ID:2
+Destination:turkey
+Startdate:15/8/2021
+Enddate:20/8/202
+Transportation:plane
+Hotelname:sheraton
+Hotel Address:21 turkey street
+Max No. of Reservations:200
+Number of reservations:50
+Trip cost:50000
+Number of people:4
+Payment method:cash

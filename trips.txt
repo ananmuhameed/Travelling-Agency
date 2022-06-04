@@ -1,0 +1,32 @@
+Trip ID:1
+Destination:EGYPT
+Start Date :20/6/2021
+End Date :30/6/2021
+Transportation :bus
+Hotel Name :helnan
+Hotel Address :hilton
+Max No.Reservations :40
+Number of Reservations :39
+Trip Cost :2500
+
+Trip ID:2
+Destination:turkey
+Start Date :15/8/2021
+End Date :20/8/202
+Transportation :plane
+Hotel Name :sheraton
+Hotel Address :21 turkey street
+Max No.Reservations :200
+Number of Reservations :50
+Trip Cost :50000
+
+Trip ID:3
+Destination:germany
+Start Date :20/11/2021
+End Date :30/11/2021
+Transportation :plane
+Hotel Name :germania
+Hotel Address :16 gu street
+Max No.Reservations :300
+Number of Reservations :50
+Trip Cost :45000
